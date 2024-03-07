@@ -1,1 +1,2 @@
 neki tekst na master grani
+neki tekst dodat na strani nova grana
